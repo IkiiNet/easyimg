@@ -74,45 +74,33 @@
         </div>
       </div> -->
 
-      <!-- 项目信息 -->
+      <!-- 联系方式 -->
       <div class="card p-6">
         <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4 flex items-center gap-2">
           <Icon name="heroicons:link" class="w-5 h-5 text-primary-500" />
-          项目信息
+          联系方式
         </h2>
         <div class="space-y-4">
           <div class="flex items-center gap-3">
             <Icon name="simple-icons:github" class="w-5 h-5 text-gray-800 dark:text-gray-200" />
-            <span class="text-gray-700 dark:text-gray-300">项目地址:</span>
+            <span class="text-gray-700 dark:text-gray-300">邮箱:</span>
             <a
-              href="https://github.com/chaos-zhu/easyimg"
+              href="mailto:poeas@msn.com"
               target="_blank"
               rel="noopener noreferrer"
               class="text-primary-600 dark:text-primary-400 hover:underline"
             >
-              https://github.com/chaos-zhu/easyimg
+              poeas@msn.com
             </a>
-          </div>
-          <div class="flex items-center gap-3">
-            <Icon name="simple-icons:telegram" class="w-5 h-5 text-blue-500" />
-            <span class="text-gray-700 dark:text-gray-300">TG频道:</span>
-            <a
-              href="https://t.me/easynode_notify"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="text-primary-600 dark:text-primary-400 hover:underline"
-            >
-              https://t.me/easynode_notify
-            </a>
-          </div>
+          </div>  
         </div>
       </div>
 
-      <!-- 作者其他项目 -->
+      <!-- 项目地址 -->
       <div class="card p-6">
         <h2 class="text-lg font-semibold text-gray-900 dark:text-white mb-4 flex items-center gap-2">
           <Icon name="heroicons:rocket-launch" class="w-5 h-5 text-primary-500" />
-          作者其他项目
+          项目信息
         </h2>
         <div class="space-y-6">
           <!-- EasyNode -->
@@ -129,7 +117,7 @@
               </a>
             </div>
             <p class="text-gray-600 dark:text-gray-400 text-sm mb-2">
-              一个多功能Linux&win服务器WEB终端面板(webSSH&webSFTP)
+              一站式图床服务. 支持开启公共上传，支持部署AI鉴黄智能检测，完善的权限控制、数据统计、实时推送等功能。
             </p>
             <a
               href="https://github.com/chaos-zhu/easynode"
@@ -137,33 +125,7 @@
               rel="noopener noreferrer"
               class="text-primary-600 dark:text-primary-400 hover:underline text-sm"
             >
-              https://github.com/chaos-zhu/easynode
-            </a>
-          </div>
-
-          <!-- EasyNavTab -->
-          <div class="border-l-4 border-green-500 pl-4">
-            <div class="flex items-center gap-2 mb-2">
-              <h3 class="text-base font-semibold text-gray-900 dark:text-white">EasyNavTab</h3>
-              <a
-                href="https://github.com/chaos-zhu/easynavtab"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="text-gray-500 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
-              >
-                <Icon name="simple-icons:github" class="w-4 h-4" />
-              </a>
-            </div>
-            <p class="text-gray-600 dark:text-gray-400 text-sm mb-2">
-              开源浏览器插件，自定义新标签页
-            </p>
-            <a
-              href="https://github.com/chaos-zhu/easynavtab"
-              target="_blank"
-              rel="noopener noreferrer"
-              class="text-primary-600 dark:text-primary-400 hover:underline text-sm"
-            >
-              https://github.com/chaos-zhu/easynavtab
+              https://github.com/chaos-zhu/easyimg
             </a>
           </div>
         </div>
